@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
-
 import optunity as op
 import pandas as pd
 import numpy as np
